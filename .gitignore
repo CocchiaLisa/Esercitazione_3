@@ -1,0 +1,39 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IDE files (Eclipse, IntelliJ, etc.)
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+.idea/
+
+# NetBeans
+nbproject/
+
+# Build directories
+bin/
+target/
+
+# Maven / Gradle build directories
+.mvn/
+.gradle/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
